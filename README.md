@@ -24,4 +24,4 @@ Python 2.7 or later. Python modules: numpy, pandas, matplotlib, urllib, zeep, ow
 
 ## Procedure
 
-You can access the Jupyter Notebook [here](webservice_modis_daymet_sdat).
+You can access the Jupyter Notebook [here](webservice_modis_daymet_sdat.ipynb).
