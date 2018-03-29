@@ -1,6 +1,6 @@
 # Accessing data through ORNL DAAC web services
 
-*Author: Rupesh Shrestha*  
+*Author: ORNL DAAC*  
 *Date: March 21, 2018*  
 *Contact for ORNL DAAC: uso@daac.ornl.gov*
 
